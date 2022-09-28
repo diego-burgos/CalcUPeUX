@@ -1,0 +1,7 @@
+<resources >
+    <string name="app_name">CalcUPeUX</string>
+    <string name="app_direccion">Adresse:</string>
+    <string name="app_detalle">Détail:</string>
+    <string name="app_telefono">Téléphoner:</string>
+    <string name="app_nombre">Nom:</string>
+</resources>
